@@ -7,3 +7,5 @@ This object-oriented, pseudo-3D game was made as a challenge on a API designed f
 Highscore board reads and writes using files and can organize data based on lexicography, score, or date.
 
 Sound effects and music also included (weird start menu song, but kind of funny)
+
+To run, simply clone or download this repository and run the .exe file.
